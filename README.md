@@ -27,7 +27,7 @@ Install Postman and create CIT 281 collection and folders.
 
 Join GitHub and work through introduction & Practice classes. 
 
-### CIT 281 Lab 07
+### CIT 281 [Lab 07](https://uo-cit-anthonyhudson.github.io/cit281-lab07-proj7-/)
 
 Create GitHub organization and create first GitHub repository. 
 
