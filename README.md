@@ -35,7 +35,7 @@ Create GitHub organization and create first GitHub repository.
 
 Practice with JSONPlaceholder and install node-fetch package. 
 
-### CIT 281 Lab 09
+### CIT 281 [Lab 09](https://uo-cit-anthonyhudson.github.io/cit281-lab09/)
 
 Work through GitHub Learning Account
 
