@@ -2,7 +2,7 @@
 
 ![Image](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
-### [CIT 281 Lab 01](https://uo-cit-anthonyhudson.github.io/cit281-lab01/)
+###CIT 281 [Lab 01](https://uo-cit-anthonyhudson.github.io/cit281-lab01/)
 
 Install of all basic software and create first Node.js server-side JavaScript file. 
 
