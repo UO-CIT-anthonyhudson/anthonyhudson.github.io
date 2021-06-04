@@ -39,7 +39,8 @@ Practice with JSONPlaceholder and install node-fetch package.
 
 Work through GitHub Learning Account
 
-### CIT 281 Project 01
+
+### CIT 281 [Project 01](https://uo-cit-anthonyhudson.github.io/cit281-p01/)
 
 Use CLI to create folders in a tree like structure. Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
