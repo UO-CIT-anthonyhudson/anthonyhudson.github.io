@@ -19,7 +19,7 @@ Practice refactoring, destructuring and module exports.
 
 Create Fastify Node.js web server, add git repo, and fix MIME error, test and commit. 
 
-### CIT 281 Lab 05
+### CIT 281 .[Lab 05](https://uo-cit-anthonyhudson.github.io/cit281-lab05/)
 
 Install Postman and create CIT 281 collection and folders. 
 
