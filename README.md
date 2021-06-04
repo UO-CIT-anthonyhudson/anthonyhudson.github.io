@@ -23,7 +23,7 @@ Create Fastify Node.js web server, add git repo, and fix MIME error, test and co
 
 Install Postman and create CIT 281 collection and folders. 
 
-### CIT 281 Lab 06
+### CIT 281 [Lab 06](https://uo-cit-anthonyhudson.github.io/cit281-lab06/)
 
 Join GitHub and work through introduction & Practice classes. 
 
