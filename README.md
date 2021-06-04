@@ -64,7 +64,7 @@ Create a Monster Game program using classes.
 
 Creating three classes. First class is the Shape class that will serve as a base class for the other two classes. Second class is the Rectangle class that will inherit from Shape class. Third class is the Triangle class that also will inherit from the Shape class.
 
-### CIT 281 Project 07
+### CIT 281 [Project 07](https://uo-cit-anthonyhudson.github.io/cit281-p07/)
 
 Creating initial verison of my CIT minor portfolio
 
