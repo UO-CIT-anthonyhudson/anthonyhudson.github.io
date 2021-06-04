@@ -52,7 +52,7 @@ Use CLI to create a git repository (repo)
 
 Creating a "coinage" code module that is capable of calculating the total value of coin objects. Update the "server" code file as a true Node.js web server using the Fastify package.
 
-### CIT 281 Project 04
+### CIT 281 [Project 04](https://uo-cit-anthonyhudson.github.io/cit128-p04/)
 
 Creating a REST API that works with a "data" source of questions and answers. Create a Node.js REST API to handle the GET verb. 
 
