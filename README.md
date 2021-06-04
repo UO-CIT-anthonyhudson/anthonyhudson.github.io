@@ -6,7 +6,7 @@
 
 Install of all basic software and create first Node.js server-side JavaScript file. 
 
-### CIT 281 Lab 02
+### CIT 281 [Lab 02](https://uo-cit-anthonyhudson.github.io/cit182-lab02/)
 
 Create new git repository and initialize/see changes. 
 
