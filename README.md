@@ -1,6 +1,40 @@
 ## Welcome to My CIT Portfolio
 
+### CIT 281 Lab 01
 
+Install of all basic software and create first Node.js server-side JavaScript file. 
+
+### CIT 281 Lab 02
+
+Create new git repository and initialize/see changes. 
+
+### CIT 281 Lab 03
+
+Practice refactoring, destructuring and module exports. 
+
+### CIT 281 Lab 04
+
+Create Fastify Node.js web server, add git repo, and fix MIME error, test and commit. 
+
+### CIT 281 Lab 05
+
+Install Postman and create CIT 281 collection and folders. 
+
+### CIT 281 Lab 06
+
+Join GitHub and work through introduction & Practice classes. 
+
+### CIT 281 Lab 07
+
+Create GitHub organization and create first GitHub repository. 
+
+### CIT 281 Lab 08
+
+Practice with JSONPlaceholder and install node-fetch package. 
+
+### CIT 281 Lab 09
+
+Work through GitHub Learning Account
 
 
 
