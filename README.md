@@ -10,7 +10,8 @@ Install of all basic software and create first Node.js server-side JavaScript fi
 
 Create new git repository and initialize/see changes. 
 
-### CIT 281 Lab 03
+
+### CIT 281 [Lab 03](https://uo-cit-anthonyhudson.github.io/cit281-lab03/)
 
 Practice refactoring, destructuring and module exports. 
 
