@@ -56,7 +56,7 @@ Creating a "coinage" code module that is capable of calculating the total value 
 
 Creating a REST API that works with a "data" source of questions and answers. Create a Node.js REST API to handle the GET verb. 
 
-### CIT 281 Project 05
+### CIT 281 [Project 05](https://uo-cit-anthonyhudson.github.io/cit281-p05/)
 
 Create a Monster Game program using classes. 
 
