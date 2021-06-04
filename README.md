@@ -48,7 +48,7 @@ Use CLI to create folders in a tree like structure. Create and execute a JavaScr
 
 Use CLI to create a git repository (repo)
 
-### CIT 281 Project 03
+### CIT 281 [Project 03](https://uo-cit-anthonyhudson.github.io/cit281-p03/)
 
 Creating a "coinage" code module that is capable of calculating the total value of coin objects. Update the "server" code file as a true Node.js web server using the Fastify package.
 
