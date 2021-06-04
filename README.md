@@ -60,13 +60,13 @@ Creating a REST API that works with a "data" source of questions and answers. Cr
 
 Create a Monster Game program using classes. 
 
-### CIT 281 Project 06
+### CIT 281 [Project 06](https://uo-cit-anthonyhudson.github.io/cit281-p06/)
 
 Creating three classes. First class is the Shape class that will serve as a base class for the other two classes. Second class is the Rectangle class that will inherit from Shape class. Third class is the Triangle class that also will inherit from the Shape class.
 
 ### CIT 281 Project 07
 
-Creating intial verison of my CIT minor portfolio
+Creating initial verison of my CIT minor portfolio
 
 
 ## Welcome to GitHub Pages
