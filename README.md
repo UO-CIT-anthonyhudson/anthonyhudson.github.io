@@ -36,7 +36,33 @@ Practice with JSONPlaceholder and install node-fetch package.
 
 Work through GitHub Learning Account
 
+### CIT 281 Project 01
 
+Use CLI to create folders in a tree like structure. Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
+
+### CIT 281 Project 02
+
+Use CLI to create a git repository (repo)
+
+### CIT 281 Project 03
+
+Creating a "coinage" code module that is capable of calculating the total value of coin objects. Update the "server" code file as a true Node.js web server using the Fastify package.
+
+### CIT 281 Project 04
+
+Creating a REST API that works with a "data" source of questions and answers. Create a Node.js REST API to handle the GET verb. 
+
+### CIT 281 Project 05
+
+Create a Monster Game program using classes. 
+
+### CIT 281 Project 06
+
+Creating three classes. First class is the Shape class that will serve as a base class for the other two classes. Second class is the Rectangle class that will inherit from Shape class. Third class is the Triangle class that also will inherit from the Shape class.
+
+### CIT 281 Project 07
+
+Creating intial verison of my CIT minor portfolio
 
 
 ## Welcome to GitHub Pages
