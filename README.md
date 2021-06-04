@@ -15,7 +15,7 @@ Create new git repository and initialize/see changes.
 
 Practice refactoring, destructuring and module exports. 
 
-### CIT 281 .[Lab 04](https://uo-cit-anthonyhudson.github.io/cit281-lab04/)
+### CIT 281 [Lab 04](https://uo-cit-anthonyhudson.github.io/cit281-lab04/)
 
 Create Fastify Node.js web server, add git repo, and fix MIME error, test and commit. 
 
