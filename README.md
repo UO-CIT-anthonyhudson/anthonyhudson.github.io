@@ -44,7 +44,7 @@ Work through GitHub Learning Account
 
 Use CLI to create folders in a tree like structure. Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
-### CIT 281 Project 02
+### CIT 281 [Project 02](https://uo-cit-anthonyhudson.github.io/cit281-p02/)
 
 Use CLI to create a git repository (repo)
 
